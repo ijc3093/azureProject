@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'museaiwebb'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_F3AAE4A240D6463A9B5A79BA85393E91 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E61BF0B0E21B4A7C90DA04E2EBE7D338 }}
           package: .
